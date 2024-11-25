@@ -18,4 +18,4 @@ int main()
     sandy o;
     o.display(12);
     return 0;
-} 
+}
