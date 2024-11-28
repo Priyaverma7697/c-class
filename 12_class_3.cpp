@@ -1,3 +1,4 @@
+//"What will be the output of the given C++ program?
 #include<iostream>
 using namespace std;
 class a{
